@@ -40,5 +40,5 @@ Thumbs.db
 ######################
 6867bb81-131d-4991-902f-f132e103a9e4.vsidx
 .vs
-/bin
-/obj
+bin
+obj
